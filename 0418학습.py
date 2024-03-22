@@ -2,7 +2,7 @@ st_sum=""
 sum=0
 while True:
     num=int(input("정수입력 : "))
-    print("202303475 구예빈 컴퓨터공학과")
+    print("202303475 구예빈 컴퓨터공학과 학생입니다.")
     print("2학년")
     if num == 0:
         break
